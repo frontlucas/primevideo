@@ -1,0 +1,36 @@
+*{
+margin: 0;
+padding: 0%;
+box-sizing: border-box;
+}
+
+  section{
+      width: 100%;
+      height: 500px;
+      justify-content: center;
+      align-items: center;
+      background-size: cover;                  
+      background-repeat: no-repeat;
+      background-position: center center;
+      background-attachment: fixed;
+     }
+
+     #bg-img1{
+         background-image: url(./de8043k-985d47dd-5da9-49e1-b09d-ec9fc5b300e1.png);
+     }
+
+    #bg-img2{
+        background-image: url(./e4fe07cad2eaf11f9bb392f12342a4c39cd7348e_00.jpg);
+    }
+    #bg-img3{
+        background-image: url(./e4fe07cad2eaf11f9bb392f12342a4c39cd7348e_00.jpg);   
+    }
+    #bg-img4{
+        background-image: url(./the_quickster___carrerin_by_daniel_pl_ddhpspv-fullview.jpg);   
+    }
+
+    h2{
+        color: white;
+        font-size: 100px;
+        text-shadow: 0 0 5px black;
+    }
